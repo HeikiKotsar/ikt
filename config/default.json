@@ -1,9 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://heikikotsar:kl10901@cluster0-widrq.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "sdfsdgdfgfsgf",
-    "jwt_expire": "30d",
-    "jwt_cookie_expire": "30",
-    "MAIL_HOST": "smtp.mailtrap.io",
-    "MAIL_USER": "b29f647d4694ae",
-    "MAIL_PASSWOD": "a94f4b71a4e20d"
-}
